@@ -1,0 +1,94 @@
+/* Home Page */
+
+nav {
+    background-color: yellowgreen;
+}
+
+#navtxt li a {
+    color: white;
+}
+
+#navtxt li a {
+    border-radius: 6px;
+}
+
+#navtxt li a:hover {
+    border-radius: 6px;
+    background-color: green;
+    transition: 0.2s;
+}
+
+.navbar-brand:hover {
+    color: green;
+}
+
+nav .navbar-brand,
+li a {
+    color: white;
+}
+
+#green {
+    color: yellow;
+}
+
+.carousel-item {
+    height: 600px;
+}
+
+.carousel-item img {
+    object-fit: fill;
+    width: 1980px;
+    height: 600px;
+    max-width: 100%;
+}
+
+#insec0 {
+    background-color: yellowgreen;
+}
+
+#insec0 i {
+    font-size: 50px;
+    color: darkgreen;
+}
+
+#navicon .col:hover {
+    box-shadow: 2px 4px 4px 2px rgb(22, 22, 22);
+    border-radius: 7px;
+    transition: 0.5s;
+}
+
+#insec1 {
+    padding: 50px;
+}
+
+#ceotext {
+    padding: 200px;
+}
+
+footer {
+    background-color: yellowgreen;
+}
+
+
+/* Home Page */
+
+
+/* our team */
+
+#ourthead {
+    background-image: url(https://res.cloudinary.com/dy0hlxft4/image/upload/v1675518080/firstweb/ourteam_mwnnom.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    object-fit: cover;
+    background-color: grey;
+}
+
+#ourtsec1 img {
+    height: 400px;
+    object-fit: cover;
+}
+
+
+/* our team */
